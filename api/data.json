@@ -41,6 +41,36 @@
     "title": "Dark Sweet",
     "label": "PESAN",
     "link": "https://demo.ulamulem.com/dark-sweet"
+  },
+  {
+    "src": "https://demo.ulamulem.com/api/images/theme/baby-flowers.png",
+    "title": "Baby Flowers",
+    "label": "PESAN",
+    "link": "https://demo.ulamulem.com/baby-flowers"
+  },
+  {
+    "src": "https://demo.ulamulem.com/api/images/theme/blue-deep.png",
+    "title": "Blue Deep",
+    "label": "PESAN",
+    "link": "https://demo.ulamulem.com/blue-deep"
+  },
+  {
+    "src": "https://demo.ulamulem.com/api/images/theme/classic-java.png",
+    "title": "Classic Java",
+    "label": "PESAN",
+    "link": "https://demo.ulamulem.com/classic-java"
+  },
+  {
+    "src": "https://demo.ulamulem.com/api/images/theme/golden-black.png",
+    "title": "Golden Black",
+    "label": "PESAN",
+    "link": "https://demo.ulamulem.com/golden-black"
+  },
+  {
+    "src": "https://demo.ulamulem.com/api/images/theme/modern-green.png",
+    "title": "Modern Green",
+    "label": "PESAN",
+    "link": "https://demo.ulamulem.com/modern-green"
   }
  ]
 }
