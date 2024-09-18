@@ -352,11 +352,12 @@ body {
 .card-mempelai {
   width: 80%;
   overflow: hidden;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   display: flex;
   flex-direction: column;
   padding-top: 10px;
-  padding-bottom: 40px;
+  /* padding-bottom: 40px; */
+  padding-bottom: 15px;
   align-items: center;
   justify-content: center;
   height: max-content;
@@ -403,10 +404,11 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-top: 30px !important;
 }
 
 .card-mempelai2 p {
-  line-height: 2em;
+  line-height: 1.5em;
   position: relative;
   top: 20px;
   color: rgba(66, 97, 90, 1);
@@ -445,7 +447,7 @@ body {
   position: relative;
   font-size: 28px;
   margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 0;
   font-weight: bold;
 }
 
@@ -455,6 +457,7 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  z-index: 2;
 }
 
 .dekor1 {
@@ -476,7 +479,7 @@ body {
   flex-direction: column;
   justify-content: center;
   margin-top: 0px;
-  padding-top: 30px;
+  padding-top: 10px;
   align-items: center;
   background-color: white;
 }
@@ -493,7 +496,7 @@ body {
   position: relative;
   width: 90%;
   display: flex;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   min-height: 450px;
   flex-direction: column;
   /* background-image: url('../images/default/BACKGROUND\ 1.png'); */
@@ -627,7 +630,7 @@ body {
   margin-top: 0px;
   overflow: hidden;
   margin-bottom: 40px;
-  padding-top: 50px;
+  padding-top: 20px;
   min-height: 400px;
   display: flex;
   background-color: transparent;
@@ -1262,7 +1265,7 @@ button:focus:not(:focus-visible) {
 }
 
 .ucapan h2 {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   font-weight: bold;
   text-align: center;
   color: rgba(83, 89, 98, 1);
@@ -1763,7 +1766,7 @@ form {
       position: relative;
       height: max-content;
       margin-top: 0px;
-      padding-bottom: 50px;
+      padding-bottom: 0 ;
       padding-top: 20px;
       background-color: white;
       /* background-image: url('../images/icons/GOLDEN\ STAINS\ 1.png'); */
@@ -1801,7 +1804,7 @@ form {
 
   .card-mempelai {
       width: 100vw;
-      margin-top: 40px;
+      /* margin-top: 40px; */
       position: relative;
       display: flex;
   }
@@ -1810,6 +1813,7 @@ form {
       padding-bottom: 0px;
       padding: 20px;
       height: max-content;
+      margin-top: 30px !important;
   }
 
   .card-mempelai2 p {
