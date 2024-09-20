@@ -1,19 +1,19 @@
 {
  "data": [
   {
-    "src": "./images/theme/adi-dan-lutfi-ngunduh-mantu.jpg",
+    "src": "https://demo.ulamulem.com/api/images/theme/adi-dan-lutfi-ngunduh-mantu.jpg",
     "title": "Adi & Lutfi Ngunduh Mantu",
     "label": "PESAN",
     "link": "https://demo.ulamulem.com/adi-dan-lutfi-ngunduh-mantu"
   },
   {
-    "src": "./images/theme/lutfi-dan-adi-wedding.jpg",
+    "src": "https://demo.ulamulem.com/api/images/theme/lutfi-dan-adi-wedding.jpg",
     "title": "Lutfi & Adi Wedding",
     "label": "PESAN",
     "link": "https://demo.ulamulem.com/lutfi-dan-adi-wedding"
   },
   {
-    "src": "./images/theme/rina-dan-yudha.jpg",
+    "src": "https://demo.ulamulem.com/api/images/theme/rina-dan-yudha.jpg",
     "title": "Rina & Yudha",
     "label": "PESAN",
     "link": "https://demo.ulamulem.com/rina-and-yudha"
