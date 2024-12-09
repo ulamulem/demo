@@ -1,97 +1,94 @@
 {
- "data": [
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/adi-dan-lutfi-ngunduh-mantu.jpg",
-    "title": "Adi & Lutfi Ngunduh Mantu",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/adi-dan-lutfi-ngunduh-mantu"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/lutfi-dan-adi-wedding.jpg",
-    "title": "Lutfi & Adi Wedding",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/lutfi-dan-adi-wedding"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/rina-dan-yudha.jpg",
-    "title": "Rina & Yudha",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/rina-and-yudha"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/beauty-green.jpg",
-    "title": "Beauty Green",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/beauty-green"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/cute-elegant.jpg",
-    "title": "Cute Elegant",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/cute-elegant"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/sweet-rose.jpg",
-    "title": "Sweet Rose",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/sweet-rose"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/asha-dan-bagus.jpg",
-    "title": "Asha & Bagus",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/asha-dan-bagus"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/classic-sweet.jpg",
-    "title": "Classic Sweet",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/classic-sweet"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/dark-sweet.jpg",
-    "title": "Dark Sweet",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/dark-sweet"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/baby-flowers.png",
-    "title": "Baby Flowers",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/baby-flowers"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/blue-deep.png",
-    "title": "Blue Deep",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/blue-deep"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/classic-java.png",
-    "title": "Classic Java",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/classic-java"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/golden-black.png",
-    "title": "Golden Black",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/golden-black"
-  },
-  {
-    "src": "https://demo.ulamulem.com/api/images/theme/modern-green.png",
-    "title": "Modern Green",
-    "label": "PESAN",
-    "link": "https://demo.ulamulem.com/modern-green"
-  }
- ]
+  "data": [
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/nofyta-dan-hendrik.jpg",
+      "title": "Nofyta & Hendrik",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/nofyta-dan-hendrik"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/adi-dan-lutfi-ngunduh-mantu.jpg",
+      "title": "Adi & Lutfi Ngunduh Mantu",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/adi-dan-lutfi-ngunduh-mantu"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/lutfi-dan-adi-wedding.jpg",
+      "title": "Lutfi & Adi Wedding",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/lutfi-dan-adi-wedding"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/rina-dan-yudha.jpg",
+      "title": "Rina & Yudha",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/rina-and-yudha"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/beauty-green.jpg",
+      "title": "Beauty Green",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/beauty-green"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/cute-elegant.jpg",
+      "title": "Cute Elegant",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/cute-elegant"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/sweet-rose.jpg",
+      "title": "Sweet Rose",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/sweet-rose"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/asha-dan-bagus.jpg",
+      "title": "Asha & Bagus",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/asha-dan-bagus"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/classic-sweet.jpg",
+      "title": "Classic Sweet",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/classic-sweet"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/dark-sweet.jpg",
+      "title": "Dark Sweet",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/dark-sweet"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/baby-flowers.png",
+      "title": "Baby Flowers",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/baby-flowers"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/blue-deep.png",
+      "title": "Blue Deep",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/blue-deep"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/classic-java.png",
+      "title": "Classic Java",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/classic-java"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/golden-black.png",
+      "title": "Golden Black",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/golden-black"
+    },
+    {
+      "src": "https://demo.ulamulem.com/api/images/theme/modern-green.png",
+      "title": "Modern Green",
+      "label": "PESAN",
+      "link": "https://demo.ulamulem.com/modern-green"
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
